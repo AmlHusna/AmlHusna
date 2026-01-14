@@ -1,5 +1,5 @@
 
-![AmlHusna](picture/github-header-banner1.png)
+![AmlHusna](Picture/github-header-banner1.png)
 
 <br clear="both">
 
