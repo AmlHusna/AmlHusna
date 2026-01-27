@@ -15,10 +15,9 @@ I am a bachelor's degree graduate who is building a career as a Data Analyst, wi
 </div>
 
 ### 🔗 Connect with Me 🤗
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mashlahatulhusna)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mashlahatulhusna/)
 [![CV](https://img.shields.io/badge/CV-Download-2EA44F?style=for-the-badge&logo=readthedocs&logoColor=white)](https://www.canva.com/design/DAG-67T5tEU/rMtnqgq2GTUwMwA2zupRhw/edit?utm_content=DAG-67T5tEU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://www.canva.com/design/DAG_PXP9xgM/MqmZr6tnYVMyfwA6YuOPcQ/edit?utm_content=DAG_PXP9xgM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mashlahatulhusna@gmail.com)
 </div>
 
 ### Platform🤖
